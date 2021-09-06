@@ -7,3 +7,4 @@ return {
     read_timeout = { default = 60000, type = "number" }
   }
 }
+
